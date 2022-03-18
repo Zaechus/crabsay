@@ -1,2 +1,2 @@
 # crabsay
-A `cowsay`-like binary package using `ferris-says`.
+A `cowsay`-like package using `ferris-says`.
