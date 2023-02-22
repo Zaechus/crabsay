@@ -1,7 +1,7 @@
 [package]
 name = "crabsay"
 version = "0.1.1"
-authors = ["Maxwell Anderson <maxwell.anderson.public@protonmail.com>"]
+authors = ["Maxwell Anderson <zaechus@proton.me>"]
 license = "MIT OR Apache-2.0"
 description = "A cowsay-like package using ferris-says"
 repository = "https://github.com/Zaechus/crabsay"
